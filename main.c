@@ -11,8 +11,6 @@
  * Created on June 21, 2016, 9:56 AM
  */
 
-//rosettacode.org/wiki/Huffman_coding#C
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "Huffman.h"
